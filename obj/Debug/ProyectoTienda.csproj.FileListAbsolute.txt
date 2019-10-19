@@ -1,0 +1,102 @@
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.csprojAssemblyReference.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmFactura.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalleCompra.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\bin\Debug\InputKey.dll
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetallesAbono.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CopyComplete
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\repos\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbonosClientes.resources
+E:\Descargas\Mis descargas\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+E:\Descargas\Mis descargas\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.csprojAssemblyReference.cache
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbono.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbonosClientes.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmClientes.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalle.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalleCompra.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetallesAbono.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmFactura.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmPrincipal.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmProductos.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.frmVentas.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CopyComplete
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\ProyectoTienda\obj\Debug\ProyectoTienda.pdb
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.csprojAssemblyReference.cache
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbono.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmAbonosClientes.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmClientes.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalle.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetalleCompra.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmDetallesAbono.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmFactura.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmPrincipal.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmProductos.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.frmVentas.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CopyComplete
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\Nueva carpeta (2)\ProyectoTienda\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetallesAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmFactura.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csprojAssemblyReference.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.csproj.CopyComplete
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\Semestre 2019-1\Programación de computadores 3\Visual Studio Projects\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb

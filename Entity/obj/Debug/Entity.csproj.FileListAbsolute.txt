@@ -1,0 +1,36 @@
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.dll
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.dll
+E:\Escritorio\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\Entity\obj\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\obj\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\Entity\obj\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\obj\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\Entity\obj\Debug\Entity.pdb

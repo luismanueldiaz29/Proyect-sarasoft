@@ -1,0 +1,274 @@
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\BLL.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\Entity.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\BLL.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\Entity.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CopyComplete
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\DAL.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\DAL.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\itextsharp.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\bin\Debug\itextsharp.xml
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\BLL.dll
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\Entity.dll
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\DAL.dll
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\itextsharp.dll
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\BLL.pdb
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\Entity.pdb
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\DAL.pdb
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\bin\Debug\itextsharp.xml
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+C:\Users\acer pc\source\repos\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\BLL.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\Entity.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\DAL.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\itextsharp.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\BLL.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\BLL.dll.config
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\Entity.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\DAL.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\DAL.dll.config
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\bin\Debug\itextsharp.xml
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmGraficas.resources
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\BLL.dll
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\Entity.dll
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\DAL.dll
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\itextsharp.dll
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\BLL.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\BLL.dll.config
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\Entity.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\DAL.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\DAL.dll.config
+E:\Escritorio\ProyectoTienda3 Díaz\bin\Debug\itextsharp.xml
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CopyComplete
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmLogin.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\BLL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\itextsharp.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\BLL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\BLL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\bin\Debug\itextsharp.xml
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmGraficas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmLogin.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\BLL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\itextsharp.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\BLL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\BLL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\bin\Debug\itextsharp.xml
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmGraficas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.frmLogin.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\BLL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\itextsharp.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\BLL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\BLL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\bin\Debug\itextsharp.xml
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmDetalle.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmGraficas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.frmLogin.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\BLL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\itextsharp.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\BLL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\BLL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\bin\Debug\itextsharp.xml
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmGraficas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmLogin.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\obj\Debug\ProyectoTienda.frmCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\ProyectoTienda.exe.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\BLL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\itextsharp.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\BLL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\BLL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\bin\Debug\itextsharp.xml
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmAbono.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmClientes.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmDetalleCuenta.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmConsultaAbonos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmVendedor.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmPrincipal.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmProductos.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmVentas.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmLogin.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.exe
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\obj\Debug\ProyectoTienda.frmEstadisticas.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmCuenta.resources
+E:\Escritorio\ProyectoTienda3 Díaz\obj\Debug\ProyectoTienda.frmEstadisticas.resources

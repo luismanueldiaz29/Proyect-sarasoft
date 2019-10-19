@@ -1,0 +1,86 @@
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.pdb
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.dll
+E:\Descargas\Mis descargas\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Documents\ISMA\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll.config
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.dll
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.pdb
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.dll
+E:\Escritorio\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(2)\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(3)\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(4)\DAL\obj\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\DAL.dll.config
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\DAL.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\Entity.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\bin\Debug\Entity.pdb
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\obj\Debug\DAL.dll
+C:\Users\AISM\Downloads\ProyectoTienda3 Díaz(5)\DAL\obj\Debug\DAL.pdb
